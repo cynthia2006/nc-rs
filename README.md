@@ -1,0 +1,1 @@
+This is a very basic netcat clone made with tokio.rs; not something useful, I know. However, it aims to do one thing, and does it properly, perhaps. You should not use this, as this was meant to be a for demonstration purposes.
